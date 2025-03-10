@@ -1,9 +1,9 @@
-# creating a README
+# README Generator
 
   
 
 ## Description
-to create a readme using the terminal and node.js
+This is to make you a REAME in a much easier and faster way. 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,15 +14,15 @@ to create a readme using the terminal and node.js
 - [Questions](#questions)
 
 ## Installation
-add the index, run npm i inquirer@8.2.4
+So first you need, inquirer so youll need to do a npm i inquirer@8.2.4
 
 ## Usage
-after you created  the index, run the node index.js and answer the questionsthe create the README
+youll need to run npm i and after node index.js
 
 
 
 ## Contributing
-say what you need to add and have in the README
+then you will be able to have a REAME,then as always git add and commit it to the repo
 
 ## Tests
 node index.js
@@ -34,5 +34,7 @@ If you have any questions, feel free to reach out:
 - Email: andres.zun25@gmail.com
 
 
-<video controls src="../screen recording/20250206-0228-50.5299804.mp4" title="Title"></video>
+
+here is the link to the video 
+https://app.screencastify.com/v3/watch/elxricPLVqfhIOQQrOF6
 
