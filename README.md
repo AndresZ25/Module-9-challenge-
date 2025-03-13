@@ -75,3 +75,7 @@ THEN I am taken to the corresponding section of the README
 
 and here is the link to the video as well 
 https://app.screencastify.com/v3/watch/elxricPLVqfhIOQQrOF6
+
+
+this image shows how it looks
+![alt text](photos/image.png)
